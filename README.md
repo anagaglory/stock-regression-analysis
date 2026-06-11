@@ -56,7 +56,7 @@ R² Score
 
 ## Visualization
 
-![Regression Plot](stock_regression_plot.png)
+![Regression Plot](Images/stock_regression_plot.png)
 
 Conclusion
 
